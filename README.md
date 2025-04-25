@@ -9,7 +9,7 @@
 
 ### 🚀 À propos de moi
 
-- 🔭 Je développe des **applications web ** avec passion.
+- 🔭 Je développe des **applications web** avec passion.
 - 🧠 Stack préférée : **Node.js**, **NestJS**, **React**, **Next.js**,  **Typescript**
 - 💬 Toujours curieuse d’apprendre de nouvelles choses ( DevOps, etc.)
 - 🌱 Actuellement je travaille sur des projets personnelles et je fais de l'open source.
