@@ -30,8 +30,6 @@
 ### 📫 Me contacter
 
 - 📧 Email : [lahoualisisham91@example.com](mailto:ton.email@example.com)
-- 💼 LinkedIn : [ton-linkedin](https://www.linkedin.com/in/ton-linkedin/)
-- 🌐 Portfolio : [ton-site.dev](https://ton-site.dev)
 
 ---
 
